@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Walkie_Talkie.Views.AddUserPage"
+             xmlns:local="clr-namespace:Walkie_Talkie.ViewModels"
+             NavigationPage.HasBackButton="False"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.BindingContext>
+        <local:AddUserViewModel/>
+    </ContentPage.BindingContext>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="StackLayout" x:Key="FormInputLayout">
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
+                <Setter Property="Orientation" Value="Vertical"/>
+                <Setter Property="WidthRequest" Value="{Binding FormInputWidth}"/>
+            </Style>
+
+            <Style TargetType="Entry">
+                <Setter Property="HorizontalOptions" Value="StartAndExpand"/>
+                <Setter Property="WidthRequest" Value="200"/>
+            </Style>
+
+            <Style TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Start"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame CornerRadius="10" BackgroundColor="#36FBFC"
+                   HeightRequest="{Binding LayoutHeight}" 
+                   WidthRequest="{Binding LayoutWidth}"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center">
+                <StackLayout  VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="200">
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Label Text="IP Adress" TextColor="Black"/>
+                            <Entry Keyboard="Url" WidthRequest="150" Text="{Binding IPAddress}"/>
+                        </StackLayout>
+                        <StackLayout HorizontalOptions="Start">
+                            <Label Text="Port" TextColor="Black"/>
+                            <Entry Keyboard="Numeric" WidthRequest="50" Text="{Binding Port}" />
+                        </StackLayout>
+                    </StackLayout>
+                    <StackLayout Style="{StaticResource FormInputLayout}">
+                        <Label Text="Username" TextColor="Black"/>
+                        <Entry Keyboard="Text" Text="{Binding Name}"/>
+                    </StackLayout>
+                    <Button Text="Add" CornerRadius="10" WidthRequest="100" HorizontalOptions="CenterAndExpand" Command="{Binding AddClientCommand}"/>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

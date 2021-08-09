@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Walkie_Talkie.Views.InfoPage"
+             xmlns:local="clr-namespace:Walkie_Talkie.ViewModels"
+             xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms"
+             xmlns:common="clr-namespace:ZXing.Common;assembly=zxing"
+             NavigationPage.HasBackButton="False"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.BindingContext>
+        <local:InfoViewModel/>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="{Binding ServerAddress}" FontSize="Title"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"/>
+            <zxing:ZXingBarcodeImageView VerticalOptions="StartAndExpand" BarcodeValue="{Binding ServerAddress}" HeightRequest="500" WidthRequest="500">
+                <zxing:ZXingBarcodeImageView.BarcodeOptions>
+                    <common:EncodingOptions Height="500" Width="500" />
+                </zxing:ZXingBarcodeImageView.BarcodeOptions>
+                
+            </zxing:ZXingBarcodeImageView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

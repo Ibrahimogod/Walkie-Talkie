@@ -1,0 +1,65 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Walkie_Talkie.Views.MainPage"
+             xmlns:local="clr-namespace:Walkie_Talkie.ViewModels"
+             NavigationPage.BackButtonTitle="False"
+             NavigationPage.HasNavigationBar="False">
+
+    <ContentPage.BindingContext>
+        <local:MainViewModel/>
+    </ContentPage.BindingContext>
+
+    <StackLayout Orientation="Vertical">
+        <StackLayout Orientation="Horizontal">
+            <ImageButton HorizontalOptions="StartAndExpand"
+                     Source="qrcode.png" WidthRequest="40"
+                     HeightRequest="40"
+                     BackgroundColor="Transparent" Margin="10"
+                     Command="{Binding InfoCommand}"/>
+            <ImageButton HorizontalOptions="EndAndExpand"
+                     Source="adduser.png" WidthRequest="40" 
+                     HeightRequest="40"
+                     BackgroundColor="Transparent" Margin="10"
+                     Command="{Binding AddCommand}"/>
+        </StackLayout>
+        <RefreshView IsRefreshing="{Binding IsRefreshing}" Command="{Binding RefreshCommand}">
+            <ScrollView
+                x:Name="Members"
+                Grid.Column="{OnIdiom Phone=0,Default=1}">
+
+                <ScrollView.Resources>
+                    <DataTemplate x:Key="MemberTemplate">
+                        <Frame 
+                        CornerRadius="10"
+                        BackgroundColor="WhiteSmoke"
+                        WidthRequest="85"
+                        HeightRequest="50">
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding BindingContext.TappedCommand, Source={x:Reference Name=Members}}" CommandParameter="{Binding .}"/>
+                            </Frame.GestureRecognizers>
+
+                            <StackLayout HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" >
+                                <Label Text="{Binding Name}" FontSize="Title" TextColor="Black"/>
+                            </StackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </ScrollView.Resources>
+
+                <FlexLayout
+                Wrap="Wrap" Direction="Row"
+                    JustifyContent="Center"
+                    AlignItems="Center"
+                    AlignContent="Center">
+                    <StackLayout Orientation="Horizontal"
+                             BindableLayout.ItemTemplate="{StaticResource MemberTemplate}"
+                             BindableLayout.ItemsSource="{Binding Clients}">
+
+
+                    </StackLayout>
+
+                </FlexLayout>
+            </ScrollView>
+        </RefreshView>
+    </StackLayout>
+
+</ContentPage>

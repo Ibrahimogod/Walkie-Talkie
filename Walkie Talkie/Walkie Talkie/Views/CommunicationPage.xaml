@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Walkie_Talkie.Views.CommunicationPage"
+             xmlns:local="clr-namespace:Walkie_Talkie.ViewModels"
+             NavigationPage.HasBackButton="False"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.BindingContext>
+        <local:CommunicationViewModel/>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center">
+            <Label Text="{Binding ClientName}" FontSize="Large"/>
+            <Label Text="{Binding ClientAddress}" FontSize="Large"/>
+            <Button Text="Connect" Command="{Binding ConnectCommand}"/>
+            <Button x:Name="btnRecord" Text="Record" Pressed="btnRecord_Pressed" Released="btnRecord_Released"/>
+            <Button Text="Delete" Command="{Binding DeleteCommand}" BackgroundColor="Red"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

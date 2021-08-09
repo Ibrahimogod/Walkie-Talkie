@@ -1,0 +1,76 @@
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\ZXingNetMobile\ZXingNetMobile.xr.xml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\App.xbf
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\MainPage.xbf
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Walkie Talkie.UWP.xr.xml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Walkie Talkie.UWP.exe
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Walkie Talkie.UWP.pdb
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\resources.pri
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\AppxManifest.xml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Core\Walkie Talkie.UWP.exe
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Walkie Talkie.UWP.build.appxrecipe
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\System.Runtime.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\SQLite-net.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\e_sqlite3.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\ZXingNetMobile.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\ZXingNetMobile.pdb
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\zxing.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\ZXing.Net.Mobile.Forms.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\ZXing.Net.Mobile.Forms.pdb
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Walkie Talkie.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\bin\x86\Debug\Walkie Talkie.pdb
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\Walkie Talkie.UWP.csproj.AssemblyReference.cache
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\App.g.i.cs
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\App.g.cs
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\MainPage.g.cs
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\App.xaml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\MainPage.xaml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\App.xbf
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\MainPage.xbf
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\Walkie Talkie.UWP.csproj.CoreCompileInputs.cache
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\Walkie Talkie.UWP.csproj.CopyComplete
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\ZXingNetMobile.pri.xml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\Walkie Talkie.UWP.exe
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\Walkie Talkie.UWP.pdb
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\priconfig.xml
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\resources.resfiles
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\pri.resfiles
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\qualifiers.txt
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json

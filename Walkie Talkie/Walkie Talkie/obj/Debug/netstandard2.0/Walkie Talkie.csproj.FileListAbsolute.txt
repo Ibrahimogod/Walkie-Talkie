@@ -1,0 +1,18 @@
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\bin\Debug\netstandard2.0\Walkie Talkie.deps.json
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\bin\Debug\netstandard2.0\Walkie Talkie.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\bin\Debug\netstandard2.0\ref\Walkie Talkie.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\bin\Debug\netstandard2.0\Walkie Talkie.pdb
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\Walkie Talkie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\Views\AddUserPage.xaml.g.cs
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\Views\CommunicationPage.xaml.g.cs
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\Views\InfoPage.xaml.g.cs
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\Walkie Talkie.AssemblyInfoInputs.cache
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\Walkie Talkie.AssemblyInfo.cs
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\Walkie Talkie.csproj.CoreCompileInputs.cache
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\Walkie Talkie.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\ref\Walkie Talkie.dll
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\Walkie Talkie.pdb
+D:\Users\ibadr\Projects\Xamarin\Walkie Talkie\Walkie Talkie\Walkie Talkie\obj\Debug\netstandard2.0\Walkie Talkie.csproj.AssemblyReference.cache

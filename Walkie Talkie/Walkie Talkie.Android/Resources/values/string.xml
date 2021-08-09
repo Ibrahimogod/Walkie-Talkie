@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="bg_service">Background Service</string>
+  <string name="bg_description">Listining to Your member</string>
+</resources>
